@@ -1,4 +1,10 @@
 
+<<<<<<< HEAD
 pizza
 burger
 sushi
+=======
+avatar
+inception
+lotr
+>>>>>>> movies
